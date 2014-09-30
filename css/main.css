@@ -1,0 +1,21 @@
+.img-block{
+    display: inline-block;
+    border: 1px solid gray;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    opacity: 0.8;
+}
+.img-block:hover{
+    opacity: 1;
+    background-color: whitesmoke;
+    cursor: hand;
+}
+.small-img{
+    width: 200px;
+    height: 180px;
+}
+.description{
+    color: blue;
+    text-align: center;
+}
